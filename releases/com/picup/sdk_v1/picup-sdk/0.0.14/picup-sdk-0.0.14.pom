@@ -66,9 +66,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.bit6.ui</groupId>
-      <artifactId>bit6-ui</artifactId>
-      <version>0.10.0</version>
+      <groupId>com.splunk.mint</groupId>
+      <artifactId>mint</artifactId>
+      <version>4.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.bugsense.trace</groupId>
+      <artifactId>bugsense</artifactId>
+      <version>3.4</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
